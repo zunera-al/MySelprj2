@@ -79,7 +79,7 @@ public class GoogleSearchTest {
      n.refresh();
      }*/
     //fb sign up
-    @Test
+   /* @Test
     public void testFacebookSignup() {
         driver.get("http://www.facebook.com");
         driver.findElement(By.id("u_0_f")).sendKeys("Narendra");
@@ -98,5 +98,5 @@ public class GoogleSearchTest {
             driver.findElements(By.name("sex")).get(0).click();
         }
 
-    }
+    }*/
 }
